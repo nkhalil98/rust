@@ -1,2 +1,1 @@
-# rust
-Learning Rust 🦀
+# Learning Rust 🦀
